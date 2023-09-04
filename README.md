@@ -1,6 +1,7 @@
 <h1 align="left">Hi there👋, My name is Wojciech Kęsek</h1>
 <h3 align="left">Junior Java Developer</h3>
 
+[![LinkedIn](https://img.shields.io/badge/Wojciech-Kesek-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wojciech-kesek/)
 
 - 🌱 I’m currently learning Java **at Software Development Academy** and looking for my first comercial experience
 
@@ -10,9 +11,6 @@
 
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
-<h3 align="left">Connect with me:</h3>
-[![Linkedin Badge]https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white)
-<br/>
 ![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
 <h3 align="left">Languages and Tools:</h3>
