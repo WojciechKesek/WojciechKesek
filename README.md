@@ -3,13 +3,13 @@
 
 ![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
-- 🌱 I’m currently learning **at Software Development Academy**
+- 🌱 I’m currently learning Java **at Software Development Academy**
 
 - 📫 How to reach me **https://www.linkedin.com/in/wojciech-kesek/**
 
 - 📄 Know about my experiences [test.com](test.com)
 
-- ⚡In my free time **I practice solving tasks on code wars, reading tech books and coding**
+- ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
