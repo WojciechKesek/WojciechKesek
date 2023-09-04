@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, My name is Wojciech Kęsek</h1>
-<h3 align="center">Junior Java Developer</h3>
+<h1 align="left">Hi there👋, My name is Wojciech Kęsek</h1>
+<h3 align="left">Junior Java Developer</h3>
 
 ![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
