@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-![Image](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-kesek/)
+![https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/wojciech-kesek/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
