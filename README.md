@@ -12,8 +12,8 @@
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> https://www.linkedin.com/in/wojciech-kesek/
-[![Linkedin Badge](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-kesek/)
+<p align="left"> 
+[![Image](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-kesek/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
