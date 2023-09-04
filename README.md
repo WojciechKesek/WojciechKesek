@@ -1,15 +1,19 @@
-<h1 align="left">Hi there👋, My name is Wojciech Kęsek</h1>
-<h3 align="left">Junior Java Developer</h3>
+<h1 align="center">Hi there👋 My name is Wojciech Kęsek</h1>
+<h3 align="center">Junior Java Developer</h3>    
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Wojciech-Kesek-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wojciech-kesek/)
+<img src="https://github.com/WojciechKesek/WojciechKesek/assets/30629269/c2bcfb1d-acd4-4158-b74b-4f1eea14a665" width="75"/>
+</p>
 
 - 🌱 I’m currently learning Java **at Software Development Academy** and looking for my first comercial experience
 
-- 📫 How to reach me <wojtekesek@gmail.com>
-
-<!-- 📄 Know about my experiences [test.com](test.com)--> 
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/Wojciech-Kesek-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wojciech-kesek/)
 
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
+
+- 📄 Feel free to look at my repositories :)
+
+<br/>
 
 ![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
