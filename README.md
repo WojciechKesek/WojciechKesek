@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, My name is Wojciech Kęsek</h1>
 <h3 align="center">Junior Java Developer</h3>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://www.codewars.com/users/WojciechKesek/badges/large)"><img src="[https://github-profile-trophy.vercel.app/?username=wojciechkesek](https://www.codewars.com/users/WojciechKesek/badges/large)" alt="wojciechkesek" /></a> </p>
+![Codewars]https://www.codewars.com/users/WojciechKesek/badges/large
 
 - 🌱 I’m currently learning **at Software Development Academy**
 
