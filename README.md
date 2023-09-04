@@ -11,7 +11,7 @@
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
 <h3 align="left">Connect with me:</h3>
-![https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white]([https://www.linkedin.com/in/wojciech-kesek](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white))
+![https://www.linkedin.com/in/wojciech-kesek](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white))
 
 ![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
