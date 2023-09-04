@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Java **at Software Development Academy**
 
-- 📫 How to reach me **https://www.linkedin.com/in/wojciech-kesek/**
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Wojciech-Kesek-green?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/wojciech-kesek/))
 
 - 📄 Know about my experiences [test.com](test.com)
 
