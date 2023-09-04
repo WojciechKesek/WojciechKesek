@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning Java **at Software Development Academy**
 
-- 📫 How to reach me ![https://www.linkedin.com/](https://www.linkedin.com/in/wojciech-kesek/)
+- 📫 How to reach me ![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})(https://www.linkedin.com/in/wojciech-kesek/)
 
-- 📄 Know about my experiences [test.com](test.com)
+<!-- 📄 Know about my experiences [test.com](test.com)--> 
 
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
