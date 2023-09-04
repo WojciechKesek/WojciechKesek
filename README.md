@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, My name is Wojciech Kęsek</h1>
 <h3 align="center">Junior Java Developer</h3>
 
-![image]([https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large))
+![https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/WojciechKesek/badges/large)
 
 - 🌱 I’m currently learning **at Software Development Academy**
 
