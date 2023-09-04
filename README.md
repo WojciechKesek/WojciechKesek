@@ -5,17 +5,15 @@
 
 - 🌱 I’m currently learning Java **at Software Development Academy**
 
-- 📫 How to reach me [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//www.linkedin.com/in/wojciech-kesek/"
+- 📫 How to reach me wojtekesek@gmail.com
 
 <!-- 📄 Know about my experiences [test.com](test.com)--> 
 
 - ⚡In my free time **I practice solving tasks on Codewars, reading tech books and textbooks and coding**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/in/wojciech-kesek/
+[![Linkedin Badge](https://img.shields.io/badge/-Wojciech-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-kesek/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
