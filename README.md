@@ -5,7 +5,7 @@
 <img src="https://github.com/WojciechKesek/WojciechKesek/assets/30629269/c2bcfb1d-acd4-4158-b74b-4f1eea14a665" width="75"/>
 </p>
 
-- 🌱 I am currently enrolled in the Software Development Academy and actively seeking my first professional experience in Java development
+- 🌱 I have completed the Software Development Academy and actively seeking my first professional experience in Java development
 
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/Wojciech-Kesek-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wojciech-kesek/)
 
